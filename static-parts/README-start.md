@@ -9,4 +9,4 @@
 - Snippets are written in ES6, use the [Babel transpiler](https://babeljs.io/) to ensure backwards-compatibility.
 - You can import these snippets into Alfred 3, using [this file](https://github.com/lslvxy/30-seconds-of-code-alfredsnippets).
 
-## Table of Contents
+## Table of Contentswqewqew
